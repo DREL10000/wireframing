@@ -45,3 +45,17 @@ The type of wireframe shown in the ALX exercise is an example of a High-fidelity
 # Popular wireframing tools
 
 There are various wireframing tools that exist such as Adobe XD, Miro, Sketch, UXPin, Figma. I'd recommend figma as your wireframing tool of choice due to its collaborative features, user-friendly interface, and built-in wireframe kits.
+
+# Benefits of wireframing in software development
+
+The power of wireframes is that they provide an opportunity to gather more information through usability research and stakeholder input. Because wireframes are so simple, people can more easily focus on functionality and the user experience rather than getting hung up on colors and other aesthetic elements. it helps to:
+
+- Get stakeholders to focus on functionality
+- Catch problems early
+- Cut down on revision time
+- Decide content prioritization
+- Test usability with users
+
+## Wireframing in Practice
+
+Airbnb’s redesign of its mobile app is a prime example of how wireframing can identify usability issues early. During wireframe testing, users struggled to locate the wishlist feature, found search filters unintuitive, and experienced friction in the booking process. These insights led to relocating the wishlist icon, simplifying the filter layout, and streamlining the booking flow. As a result, user engagement and conversion rates improved while support requests dropped. This highlights how wireframing helps resolve design flaws before development, ensuring a user-friendly and effective final product.
