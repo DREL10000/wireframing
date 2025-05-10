@@ -32,3 +32,16 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 - **Navigation:** Shows how users will move through the site or application.
 - **Content Placement:** Indicates where text, images, and other content will be positioned.
 - **Functionality:** Outlines key functionalities and interactions.
+
+## Types of Wireframes.
+
+- **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+- **High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+# The type of wireframe shown
+
+The type of wireframe shown in the ALX exercise is an example of a High-fidelity wireframe.
+
+# Popular wireframing tools
+
+There are various wireframing tools that exist such as Adobe XD, Miro, Sketch, UXPin, Figma. I'd recommend figma as your wireframing tool of choice due to its collaborative features, user-friendly interface, and built-in wireframe kits.
